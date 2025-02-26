@@ -1,4 +1,8 @@
 # Steganography Website
+![Screenshot (658)](https://github.com/user-attachments/assets/ad3f4fd3-5abc-46e0-a4ff-20a186eb6b52)
+
+
+![Screenshot (658)](https://github.com/user-attachments/assets/eb36726b-8238-48f6-ac65-def313268df2)
 
 ## Overview
 
