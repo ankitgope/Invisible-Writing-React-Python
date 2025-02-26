@@ -1,6 +1,7 @@
 # Steganography Website Frontend
 
-This document provides an overview and documentation for the frontend of the Steganography Website project.
+![Screenshot (663)](https://github.com/user-attachments/assets/d5250faf-1a0e-4cab-8ac5-e27277247152)
+This document provides an overview and documentation for the front end of the Steganography Website project.
 
 ## Table of Contents
 
