@@ -1,8 +1,8 @@
 # Steganography Website
-![Screenshot (658)](https://github.com/user-attachments/assets/ad3f4fd3-5abc-46e0-a4ff-20a186eb6b52)
 
+![Screenshot (659)](https://github.com/user-attachments/assets/bca87c34-25b5-45ef-aa69-30a94a10e7aa)
 
-![Screenshot (658)](https://github.com/user-attachments/assets/eb36726b-8238-48f6-ac65-def313268df2)
+![Screenshot (663)](https://github.com/user-attachments/assets/85ebe50d-6cf2-46e1-a306-baecf59534ce)
 
 ## Overview
 
@@ -10,16 +10,16 @@ This project is a web application that allows users to hide and retrieve secret 
 
 ### Front-End
 
-The front-end is built using HTML, CSS, and JavaScript, enhanced with Bootstrap for responsive design. It provides a user-friendly interface for users to upload images, enter secret messages, and download the steganographed images. Key features include:
+The front end is built using HTML, CSS, and JavaScript, enhanced with Bootstrap for responsive design. It provides a user-friendly interface for users to upload images, enter secret messages, and download the steganographed images. Key features include:
 
-- **Image Upload**: Users can upload images in various formats such as JPEG, PNG, and BMP.
+- **Image Upload**: Users can upload images in formats such as JPEG, PNG, and BMP.
 - **Message Input**: Users can input the secret message they want to hide within the image. The input field supports text of varying lengths.
 - **Image Preview**: Users can preview the image before and after steganography to ensure the message is correctly embedded.
 - **Download Option**: Users can download the image with the hidden message in the same format as the uploaded image.
 
 ### Back-End
 
-The back-end is developed using a server-side language such as Python or Node.js, with frameworks like Flask or Express. It handles the core steganography logic and interacts with the front-end through RESTful API endpoints. Key features include:
+The back-end is developed using a server-side language like Python, with frameworks like Flask or Express. It handles the core steganography logic and interacts with the front-end through RESTful API endpoints. Key features include:
 
 - **Steganography Algorithm**: Implements algorithms such as Least Significant Bit (LSB) to hide and retrieve messages within images.
 - **Image Processing**: Handles image encoding and decoding, ensuring the integrity of the image is maintained.
